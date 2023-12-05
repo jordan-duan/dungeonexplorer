@@ -35,8 +35,7 @@ Contributions are welcome! Please follow the standard pull request protocol.
 
 ## Acknowledgments
 
-Special thanks to [contributors' names] for their valuable contributions.
+Special thanks to Jordan Duan for their valuable contributions. 
 
 ## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+No license.
